@@ -1,0 +1,11 @@
+{
+  "name": "webpack3",
+  "version": "1.0.0",
+  "description": "webpack3.6.0 preperfection serum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
